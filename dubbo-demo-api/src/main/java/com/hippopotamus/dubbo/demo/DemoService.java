@@ -6,4 +6,6 @@ package com.hippopotamus.dubbo.demo;
  * @Email: rhh0809@163.com
  */
 public interface DemoService {
+
+    void demoTest(String string);
 }
