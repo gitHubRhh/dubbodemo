@@ -8,4 +8,7 @@ import com.hippopotamus.dubbo.demo.DemoService;
  * @Email: rhh0809@163.com
  */
 public class DemoServiceImpl implements DemoService {
+    public void demoTest(String string) {
+
+    }
 }
